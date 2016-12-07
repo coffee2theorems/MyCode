@@ -7,7 +7,5 @@ int main(int argc, char *argv[])
 
   // this is also a comment
   printf("You are  %d miles away.\n", distance);
-  printf("You need to write more code\n");
-  printf("Lets test this commit\n");
   return 0;
 }
