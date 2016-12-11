@@ -6,5 +6,6 @@ public class HelloWorld{
     Scanner kb = new Scanner(System.in);
     String word = kb.nextLine();
     System.out.println("You entered :: "+word);
+    System.out.println("This is a test");
   }
 }
