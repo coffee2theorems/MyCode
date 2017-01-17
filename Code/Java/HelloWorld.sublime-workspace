@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i_climDist"
+			],
+			[
+				"num",
+				"numParticipants"
+			],
+			[
+				"mon",
+				"monthlyPay"
+			],
+			[
+				"current",
+				"currentCarValue"
+			],
+			[
+				"curren",
+				"currentCarValue"
+			],
+			[
+				"ne",
+				"nextToken"
+			],
+			[
+				"String",
+				"StringTokenizer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 205.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list packag",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"terminal s",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"package RE",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"javaC",
+				"Build With: JavaC"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"build la",
+				"Build With: LaTeX"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"install Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown ",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package ers",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"dir",
+			"scala -cp HelloWorld.scala",
+			"man scala",
+			"scala",
+			"dir",
+			"C:/Program Files (x86)/scala/bin/scala.bat -cp HelloWorld.scala",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/runGame.bat",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/Site.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/Networking.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/RandomBot.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/MyBot.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/Move.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/Location.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/InitPackage.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/Direction.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/GameMap.java",
+		"/C/Users/rmonagha/Downloads/Halite-Java-Starter-Package/Halite-Java-Starter-Package/runGame.sh",
+		"/D/Dropbox/Files/4-Inbox/inbox .md",
+		"/D/Dropbox/Files/1-Notes/School/2016-17/APCSP.md",
+		"/C/Users/rmonagha/Desktop/batman.java",
+		"/C/Users/rmonagha/Google Drive/_2016-2017/1. Comp Sci 1/APCS (1)/11.nested_loops/labs/set1_nestedloop_labs/BoxRunner.java",
+		"/C/Users/rmonagha/Google Drive/_2016-2017/1. Comp Sci 1/APCS (1)/11.nested_loops/labs/set1_nestedloop_labs/Box.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/Mammal.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/test.java",
+		"/C/Users/rmonagha/Dropbox/Files/1-Notes/LinuxCommands.md",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/Animal.java",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/MachineLearningPython/Lesson1.py",
+		"/C/Users/rmonagha/Dropbox/Files/4-Inbox/inbox .md",
+		"/C/Users/rmonagha/Dropbox/Files/1-Notes/School/10-18-2016_APTeacherMeeting.md",
+		"/C/Users/rmonagha/Dropbox/Files/1-Notes/School/2016-17/FacultyMeetings/10-06-2016-PSATMeeting.md",
+		"/C/Users/rmonagha/Downloads/PapalyBackup100616.html",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob11799.cpp",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob11559.cpp",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob573.cpp",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Princeton Algorithms 1/UnionFindNotes.md",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Princeton Algorithms 1/Percolation Assignment/bin/PercolationStats.java",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Princeton Algorithms 1/Percolation Assignment/Percolation.java",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Princeton Algorithms 1/.gitattributes",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Princeton Algorithms 1/.gitignore",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Algorithms/UnionFind.md",
+		"/C/Users/rmonagha/Dropbox/Files/5-Courses/Algorithms",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/Java/JavaC.sublime-build",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/Test/test.java",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/output.txt",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob11559.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob11727.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/CPP/HelloWorld.cpp",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob11498.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob10114a.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob10114.cpp",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/UVa/prob11559a.java",
+		"/C/Users/rmonagha/Google Drive/_2016-2017/1. Comp Sci 1/APCS (1)/13.scanner_files/labs/Average.java",
+		"/C/Users/rmonagha/Google Drive/_2016-2017/1. Comp Sci 1/APCS (1)/13.scanner_files/labs/AverageRunner.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Scala/HelloWorld/HelloWorld.scala",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/UVa/100/prob100.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/UVa/P10114.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/UVa/prob10114.java",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/UVa/prob11172.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/CompPro3/ClosestDist.java",
+		"/C/Users/rmonagha/Dropbox/Files/1-Notes/CPP.md",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/CompPro3/input.dat",
+		"/C/Users/rmonagha/Desktop/prob.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Java/UVa/100/prob2.java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/CPP/HelloWorld.log",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rmonagha/Dropbox/Files/1-Notes/School/9.19.16_Professional Goal.txt",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/User/scala.sublime-build",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/LaTeX/HelloWorld/hello.tex",
+		"/C/Users/rmonagha/Desktop/hello.scala",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/LaTeX/HelloWorld/hello.aux",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/Scala/HelloWorld",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/R/Hello.R",
+		"/C/Users/rmonagha/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1NYZ5FZO/quiz (2).java",
+		"/C/Users/rmonagha/Dropbox/Files/2-Code/R/HistTest.R",
+		"/C/Users/rmonagha/AppData/Roaming/Sublime Text 3/Packages/User/R-Box.sublime-settings",
+		"/C/Users/rmonagha/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1NYZ5FZO/quiz.java",
+		"/C/Users/rmonagha/Desktop/hello.py",
+		"/C/Users/rmonagha/Desktop/hello.java",
+		"/C/Program Files/Sublime Text 3/Packages/Java.sublime-package"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}",
+			"String"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "HelloWorld.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
